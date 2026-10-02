@@ -4,9 +4,9 @@
 
 Confira aqui uma lista organizada do nosso progresso.
 
-✅ --> Finalizado
-⏳ --> Em andamento
-⛔ --> Não iniciado
+✅ → Finalizado
+⏳ → Em andamento
+⛔ → Não iniciado
 
 ### Questões Finalizadas
 
@@ -17,5 +17,5 @@ Confira aqui uma lista organizada do nosso progresso.
 * ⛔ 2019 (5a. Edição)
 * ⛔ 2022 (6a. Edição)
 * ⛔ 2023 (7a. Edição)
-* ⛔ 2024 (8a. Edição)
+* ⏳ 2024 (8a. Edição) → [2/10]
 * ⛔ 2025 (9a. Edição)
