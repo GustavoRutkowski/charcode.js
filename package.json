@@ -1,0 +1,16 @@
+{
+    "name": "charcode.js",
+    "version": "1.0.0",
+    "contributors": [
+        "Gustavo Rutkowski Lara",
+        "João Luís Venturini Fernandes",
+        "Murilo Duarte Gâmba"
+    ],
+    "type": "module",
+    "scripts": {
+        "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    },
+    "devDependencies": {
+        "jest": "^30.3.0"
+    }
+}
