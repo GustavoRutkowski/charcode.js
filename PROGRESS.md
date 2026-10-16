@@ -17,5 +17,5 @@ Confira aqui uma lista organizada do nosso progresso.
 * ⛔ 2019 (5a. Edição)
 * ⛔ 2022 (6a. Edição)
 * ⛔ 2023 (7a. Edição)
-* ⏳ 2024 (8a. Edição) → [6/10]
+* ⏳ 2024 (8a. Edição) → [7/10]
 * ⛔ 2025 (9a. Edição)
