@@ -13,6 +13,7 @@ Este repositório reúne resoluções de questões da **CharCode (IFSul Charquea
 ## 📑 Sumário
 
 * [📁 Estrutura de Pastas](#-estrutura-de-pastas)
+* [⛔ Erratas](#-erratas)
 * [▶️ Como Rodar as Questões](#️-como-rodar-as-questões)
 * [🧪 Como Rodar os Testes](#-como-rodar-os-testes)
 * [🤝 Como Contribuir](#-como-contribuir)
@@ -40,6 +41,12 @@ questions/
 ```
 
 ---
+
+## ⛔ Erratas
+
+Algumas das questões podem conter enunciados ou exemplos incorretos. Quando identificamos erros de grafia as retificações são descritas em [ERRATA.md](./ERRATA.md).
+
+Sempre que julgar necessário, confira as correções gráficas das questões no documento acima.
 
 ## ▶️ Como Rodar as Questões
 
